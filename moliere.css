@@ -1,18 +1,17 @@
 .Speech{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-size: 20px;
+font-size: 15x;
 color: black;
 }
-.Diection{
+.Direction{
     font-family: Arial, Helvetica, sans-serif;
     font-size:medium;
     color: black;
-    background-color: lightsteelblue;
-
+    background-color: lightsalmon;
 }
 .name{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: small;
+    font-size:large;
     color: black;
 }
 .Direction:hover{
