@@ -56,4 +56,9 @@ th{
 tr:nth-child(even){
     background-color: cyan;
 }
-
+.name:hover{
+    text-shadow: 20px;
+    color:darkorange;
+    filter: blur(5px);
+    border: 2px violet;
+}
